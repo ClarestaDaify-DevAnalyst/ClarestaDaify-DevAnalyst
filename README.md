@@ -1,4 +1,11 @@
 ## Hi there 👋
+## 👋 Halo, saya Claresta
+📊 Data Analyst Junior | Indonesia
+
+Saya tertarik pada analisis dan visualisasi data untuk menghasilkan insight yang bermanfaat.
+
+📖 Baca profil lengkap saya di Medium:
+👉 https://medium.com/@clarestapkl/profil-diri-claresta-data-analyst-junior-dari-indonesia-927c3bf7a216
 
 <!--
 **ClarestaDaify-DevAnalyst/ClarestaDaify-DevAnalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
