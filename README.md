@@ -1,4 +1,3 @@
-## Hi there 👋
 ## 👋 Halo, saya Claresta
 📊 Data Analyst Junior | Indonesia
 
