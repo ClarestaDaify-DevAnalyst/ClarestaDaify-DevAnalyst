@@ -46,13 +46,12 @@ For a more detailed personal profile and background, please visit my Medium arti
 
 - **Belajar Dasar Data Science** — Dicoding Indonesia  
   📅 Issued: October 2025  
-  🔗 Credential  
+  🔗 [Credential](https://www.dicoding.com/certificates/N9ZO22N4RPG5)  
 
 - **Pemrograman Dasar Berstandar Industri** — Dicoding Indonesia  
   🏅 Achievement: Very Competent  
   📅 Issued: November 2025  
-  📝 Type: Industry Competency Certification  
-  🔗 Certificate available upon request  
+  📝 Type: Industry Competency Certification   
 
 ---
 ## 🔎 Core Data Analytics Skills
@@ -109,9 +108,3 @@ A system to record teachers' daily teaching activities and attendance, designed 
 - LinkedIn : https://linkedin.com/in/username
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ClarestaDaify-DevAnalyst&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ClarestaDaify-DevAnalyst&layout=compact&theme=dark)
