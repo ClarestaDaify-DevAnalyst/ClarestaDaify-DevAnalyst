@@ -93,9 +93,10 @@ A system to record teachers' daily teaching activities and attendance, designed 
 
 | Week 📆 | Lessons/Tasks Done ⏰ | Reference Links 🔗 |
 |----|---------------------|----------------|
-| Week 1 | Orientasi Industri & Literasi Data | |
-| Week 2 | Data Collection & Understanding | |
-| Week 3 | Data Cleaning & Preparation |📝 Task 1: [Data Cleaning Workflow: From MySQL to CRUD Application](https://medium.com/@clarestapkl/tutorial-teknis-dan-lengkap-membersihkan-data-mentah-dari-mysql-hingga-menjadi-aplikasi-crud-dbd767b516e0)
+| Week 1 | Orientasi Industri & Literasi Data |📝 Task : Teacher's Daily Teaching Journal System |
+| Week 2 | Data Collection & Understanding |📝 Task 1:  |
+| Week 3 | Data Cleaning & Preparation |📝 Task 1: [Data Cleaning Workflow: From MySQL to CRUD Application](https://medium.com/@clarestapkl/tutorial-teknis-dan-lengkap-membersihkan-data-mentah-dari-mysql-hingga-menjadi-aplikasi-crud-dbd767b516e0) <br>📝 Task 2:  |
+
  
 
 ---
