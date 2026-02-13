@@ -94,8 +94,8 @@ A system to record teachers' daily teaching activities and attendance, designed 
 | Week 📆 | Lessons/Tasks Done ⏰ | Reference Links 🔗 |
 |----|---------------------|----------------|
 | Week 1 | Orientasi Industri & Literasi Data |📝 Task : Teacher's Daily Teaching Journal System |
-| Week 2 | Data Collection & Understanding |📝 Task 1:  |
-| Week 3 | Data Cleaning & Preparation |📝 Task 1: [Data Cleaning Workflow: From MySQL to CRUD Application](https://medium.com/@clarestapkl/tutorial-teknis-dan-lengkap-membersihkan-data-mentah-dari-mysql-hingga-menjadi-aplikasi-crud-dbd767b516e0) <br>📝 Task 2:  |
+| Week 2 | Data Collection & Understanding |📝 Task 1: [Belajar SQL dari Nol Sampai UNION (Part 1–7) (blm saya sertakan ss an nya) ](https://medium.com/@clarestapkl/belajar-sql-dari-nol-sampai-union-part-1-7-db34d1a7b290) <br> 📝 Task 2: |
+| Week 3 | Data Cleaning & Preparation |📝 Task 1: [Data Cleaning Workflow: From MySQL to CRUD Application](https://medium.com/@clarestapkl/tutorial-teknis-dan-lengkap-membersihkan-data-mentah-dari-mysql-hingga-menjadi-aplikasi-crud-dbd767b516e0) <br>📝 Task 2: [Aplikasi Jadwal Kampus Dosen menggunakan Google sheet + app script + app sheet (masi error, proses)](https://script.google.com/macros/s/AKfycbwA3jq4XyLcUedbe7X-nmpGqsABvFEVdIbMDPh7hNnB8FrUTPaPNN2Mf2CUKXIdNffS/exec) <br> 📝 Task 3: [Aplikasi kasir cafe menggunakan Google Sheet + App Script (proses)](https://script.google.com/macros/s/AKfycbw3eBZLNv_E1uvN26qncBLMAjMH1ohBjO8wN7fLQ0e47z8JQQkXlD0R_SUdVJR6AcRl2A/exec) |
 
  
 
