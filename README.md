@@ -98,6 +98,8 @@ A system to record teachers' daily teaching activities and attendance, designed 
 | Week 3 | Data Cleaning & Preparation |📝 Task 1: [Data Cleaning Workflow: From MySQL to CRUD Application](https://medium.com/@clarestapkl/tutorial-teknis-dan-lengkap-membersihkan-data-mentah-dari-mysql-hingga-menjadi-aplikasi-crud-dbd767b516e0) <br>📝 Task 2: [Aplikasi Jadwal Kampus Dosen menggunakan Google sheet + app script + app sheet (masi error, proses)](https://script.google.com/macros/s/AKfycbwA3jq4XyLcUedbe7X-nmpGqsABvFEVdIbMDPh7hNnB8FrUTPaPNN2Mf2CUKXIdNffS/exec) <br> 📝 Task 3: [Aplikasi kasir cafe menggunakan Google Sheet + App Script (proses)](https://script.google.com/macros/s/AKfycbw3eBZLNv_E1uvN26qncBLMAjMH1ohBjO8wN7fLQ0e47z8JQQkXlD0R_SUdVJR6AcRl2A/exec) |
 | Week 4 | Aplikasi CRUD Sistem Jadwal Kuliah | https://script.google.com/macros/s/AKfycbw3eBZLNv_E1uvN26qncBLMAjMH1ohBjO8wN7fLQ0e47z8JQQkXlD0R_SUdVJR6AcRl2A/exec?page=admin |
 | Week 5 | Aplikasi Inventory Barang | https://script.google.com/macros/s/AKfycbw3eBZLNv_E1uvN26qncBLMAjMH1ohBjO8wN7fLQ0e47z8JQQkXlD0R_SUdVJR6AcRl2A/exec?page=admin |
+| Week 6 | Reporting dan Storytelling Data |📝 Task 1: [Dashboard Analysis Retail Store](https://docs.google.com/spreadsheets/d/1mOvMG3hlKS1pXgEbsRlUGkrMWUDrdF3_/edit?usp=sharing&ouid=113188657300644004150&rtpof=true&sd=true) <br>📝 Task 2: [Laporan Analysis Retail Store](https://docs.google.com/presentation/d/1FZJX397wYGocCge4Z3NAeoVYf2YOKdq6/edit?usp=sharing&ouid=113188657300644004150&rtpof=true&sd=true)|
+| Week 7 | Final Project dan Portofolio |📝 Task 1: [Readme Retail Store]() <br>📝 Task 2: [Artikel Portofolio Retail Store](https://edusoftcenter.com/retail-store-business-analysis-dari-data-transaksi-ke-strategi-bisnis-yang-terukur/)|
 
  
 
