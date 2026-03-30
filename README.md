@@ -99,7 +99,7 @@ A system to record teachers' daily teaching activities and attendance, designed 
 | Week 4 | Aplikasi CRUD Sistem Jadwal Kuliah | https://script.google.com/macros/s/AKfycbw3eBZLNv_E1uvN26qncBLMAjMH1ohBjO8wN7fLQ0e47z8JQQkXlD0R_SUdVJR6AcRl2A/exec?page=admin |
 | Week 5 | Aplikasi Inventory Barang | https://script.google.com/macros/s/AKfycbw3eBZLNv_E1uvN26qncBLMAjMH1ohBjO8wN7fLQ0e47z8JQQkXlD0R_SUdVJR6AcRl2A/exec?page=admin |
 | Week 6 | Reporting dan Storytelling Data |📝 Task 1: [Dashboard Analysis Retail Store](https://docs.google.com/spreadsheets/d/1mOvMG3hlKS1pXgEbsRlUGkrMWUDrdF3_/edit?usp=sharing&ouid=113188657300644004150&rtpof=true&sd=true) <br>📝 Task 2: [Laporan Analysis Retail Store](https://docs.google.com/presentation/d/1FZJX397wYGocCge4Z3NAeoVYf2YOKdq6/edit?usp=sharing&ouid=113188657300644004150&rtpof=true&sd=true)|
-| Week 7 | Final Project dan Portofolio |📝 Task 1: [Readme Retail Store]() <br>📝 Task 2: [Artikel Portofolio Retail Store](https://edusoftcenter.com/retail-store-business-analysis-dari-data-transaksi-ke-strategi-bisnis-yang-terukur/)|
+| Week 7 | Final Project dan Portofolio |📝 Task 1: [Readme Retail Store](https://github.com/ClarestaDaify-DevAnalyst/Retail-Store-Analysis) <br>📝 Task 2: [Artikel Portofolio Retail Store](https://edusoftcenter.com/retail-store-business-analysis-dari-data-transaksi-ke-strategi-bisnis-yang-terukur/)|
 
  
 
@@ -110,6 +110,6 @@ A system to record teachers' daily teaching activities and attendance, designed 
 **Claresta Daify**
 - GitHub : https://github.com/ClarestaDaify-DevAnalyst
 - Medium : https://medium.com/@clarestapkl
-- LinkedIn : https://linkedin.com/in/username
+- LinkedIn : -
 
 ---
